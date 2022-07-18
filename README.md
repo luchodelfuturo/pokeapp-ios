@@ -1,1 +1,1 @@
-# pokeapp-ios
+# ios-pokedexapp
